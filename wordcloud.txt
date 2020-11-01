@@ -1,0 +1,9 @@
+Bachelor or Master’s degree in a quantitative discipline (e.g. statistics, physics, engineering).
+Minimum of 3 years of hands-on experience in the analysis and modeling of large complex datasets.
+Fluency in SQL and experience with Big Data.
+Expertise in a programming language (Python, R, SQL) for statistical analysis.
+Expertise with statistical modeling techniques such as regression, classification, hypothesis testing, and unsupervised learning.
+Hands-on experience with optimization, data mining, or machine learning.
+Strong Excel and data visualization skills.
+The ability not just to retrieve and present data, but to draw conclusions and make recommendations.
+Experience working for a technology or internet company.
