@@ -1,9 +1,9 @@
-Name,count,type
-Java ,511,Web
-Java ,654, Mobile
-Python ,512,Web
-Python ,786, Mobile
-C# ,351,Web
-C# ,268,Mobile
-Javascript ,972,Web
-Javascript ,1239,Mobile
+name,count,type
+Java,511,Web
+Java,654,Mobile
+Python,512,Web
+Python,786,Mobile
+C,351,Web
+C,268,Mobile
+Javascript,972,Web
+Javascript,1239,Mobile
