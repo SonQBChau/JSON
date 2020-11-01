@@ -1,9 +1,9 @@
 name,size,count,job
-Java,500,5110,Data Scientist
-Java,500,6540,Data Engineer
-Python,200,5120,Data Scientist
-Python,250,7860,Web Developer
-C,50,3510,Machine Learning
-C,150,2680,Mobile Developer
-Javascript,20,9720,Data Engineer
-Javascript,100,12390,Mobile Developer
+Java,500,511,Data Scientist
+Java,500,654,Data Engineer
+Python,200,512,Data Scientist
+Python,250,786,Web Developer
+C,50,351,Machine Learning
+C,150,268,Mobile Developer
+Javascript,20,972,Data Engineer
+Javascript,100,1239,Mobile Developer
