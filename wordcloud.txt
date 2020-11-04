@@ -1,3 +1,103 @@
-Snap Inc. is a camera company. We believe that reinventing the camera represents our greatest opportunity to improve the way people live and communicate. Our products empower people to express themselves, live in the moment, learn about the world, and have fun together.nnWeu2019re looking for a Data Enginee r to join Team Snap Inc! As a member of the People Tech team, you will lead and build the People Team Data infrastructure. Working from our Santa Monica, CA headquarters, youu2019ll collaborate with the HR Technology and IT Teams to build robust systems and processes to help drive our business forward!nnWhat youu2019ll do:nnWork closely with IT, HRIS, & People Analytics to influence the build the HR data infrastructurennCollaboration cross-functionally with other engineers and product managers to develop the best data practices in line with things we value.nnGrow the technical expertise of the People Tech TeamnnHelp cultivate agile methodologies and foster a culture of balanced tech healthnnEnsure accuracy and timeliness of data is maintained in the data layernnActively participate in Data Governance efforts.nnKnowledge, Skills & Abilities:nnExperience cultivating a strong engineering culture in an agile environmentnnProven engineering background with previous experience developing large scale systems for data engineering, including processing, storage, quality and managementnnIn-depth knowledge of agile software processes, data-driven development, reliability, and responsible experimentationnnProven track record of collaborating with other teams on relevant topics such as data science, and software systems designnnMinimum Qualifications:nnBS/BA degree in Computer Science, Math, Physics, or related field, or equivalent experience in a relevant fieldnn5+ years working as a Software Engineering or in relevant fieldnn5+ years experience in SQL or similar languages.nn5+ years development experience in at least one object-oriented language (Python, Perl, Java, etc.)nn2+ years of technical people management experiencennPreferred Qualifications:nnHands on experience with Google BigQuerynnExperience in version control systems such as GitnnData architecture experiencennExperience in ETL / Data application developmentnnExperience working with a MapReduce or an MPP systemnnAt Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets. If you have a disability or special need that requires accommodation, please donu2019t be shy and contact us atnnaccommodations-ext@snap.comnn.
- Job DescriptionnnParticipates in the design, build and management of large scale data structures and pipelines and efficient Extract/Load/Transform (ETL) workflows.nnFundamental ComponentsnnAssists in the development of large scale data structures and pipelines to organize, collect and standardize data that helps generate insights and addresses reporting needs.nnApplies understanding of key business drivers to accomplish own work.nnUses expertise, judgment and precedents to contribute to the resolution of moderately complex problems.nnLeads portions of initiatives of limited scope, with guidance and direction.nnWrites ETL (Extract / Transform / Load) processes, designs database systems and develops tools for real-time and offline analytic processing.nnCollaborates with client team to transform data and integrate algorithms and models into automated processes.nnUses knowledge in Hadoop architecture, HDFS commands and experience designing & optimizing queries to build data pipelines. Uses programming skills in Python, Java or any of the major languages to build robust data pipelines and dynamic systems.nnBuilds data marts and data models to support clients and other internal customers.nnIntegrates data from a variety of sources, assuring that they adhere to data quality and accessibility standards.nnBackground ExperiencennStrong problem solving skills and critical thinking ability.nnStrong collaboration and communication skills within and across teams.nn3 or more years of progressively complex related experience.nnAbility to leverage multiple tools and programming languages to analyze and manipulate data sets from disparate data sources.nnAbility to understand complex systems and solve challenging analytical problems.nnExperience with bash shell scripts, UNIX utilities & UNIX Commands.nnKnowledge in Java, Python, Hive, Cassandra, Pig, MySQL or NoSQL or similar.nnKnowledge in Hadoop architecture, HDFS commands and experience designing & optimizing queries against data in the HDFS environment.nnExperience building data transformation and processing solutions.nnHas strong knowledge of large scale search applications and building high volume data pipelines.nnMasteru2019s degree or PhD preferred.nnBachelor's degree or equivalent work experience in Computer Science, Engineering, Machine Learning, or related discipline.nnClinical Licensure RequirednnN/AnnJob GroupnnData & AnalyticsnnPrimary Location (City, State)nnNY-New YorknnAdditional LocationsnnCT-Hartford, MA-Wellesley, NY-New YorknnPercent Of Travel Requirednn0 - 10%nnFull or Part TimennFull TimennSupervisory ResponsibilitiesnnNonnEEO StatementnnAetna is an Equal Opportunity, Affirmative Action EmployernnBenefits ProgramnnBenefit eligibility may vary by position.nnCandidate Privacy InformationnnAetna takes our candidate's data privacy seriously. At no time will any Aetna recruiter or employee request any financial or personal information (Social Security Number, Credit card information for direct deposit, etc.) from you via e-mail. Any requests for information will be discussed prior and will be conducted through a secure website provided by the recruiter. Should you be asked for such information, please notify us immediately.nnResource Groupnn2nnReq#nn73790BR This role requires a wide variety of strengths and capabilities, including:nnBS/BA degree or equivalent experiencennAdvanced knowledge of application, data, and infrastructure architecture disciplinesnnUnderstanding of architecture and design across all systemsnnWorking proficiency in developmental toolsetsnnKnowledge of industry-wide technology trends and best practicesnnAbility to work in large, collaborative teams to achieve organizational goalsnnWork with business and application/solution teams to implement data strategies, build data flows, and develop conceptual/logical/physical data modelsnnPassionate about building an innovative culturennProficiency in one or more modern programming languagesnnUnderstanding of software skills such as business analysis, development, maintenance, and software improvementnnMinimum 8 yearsu2019 experience in Information Technology Database Development and Deliverynn- Expertise Extensive Experience & In depth knowledge of   Java , Spring framework , Cloud Foundry , Rest APIs, Devops,nn- In Depth Knowledge of Kafka and Kafka Streams Platform , API Gatewaynn- Strong Knowledge of  API design and modelingnn- Experience working on 1 or more NoSQL Databases such as Cassandra,  DynamoDB, Elastic Searchnn- Experience in Implementing business and IT data requirements through new data strategies , designs across data platforms  & common libraries .nn- Knowledge of Data Modeling , data protection, replication, reconciliation, distribution & ERWin  modeling toolnn- Experience of working , using Agile engineering practicesnn- Experience working with PCI Data is a plus
- 
+Data Engineer - Python
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who love to solve real problems and meet real customer needs.
+
+We are seeking Software Engineers who are passionate about marrying data with emerging technologies to join our team. As a Capital One Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One. Learn more about #lifeatcapitalone and our commitment to diversity & inclusion by jumping to slides 76-91 on our Corporate Social Responsibility Report.
+
+What You’ll Do:
+
+Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies
+
+Work with a team of developers with deep experience in machine learning, distributed microservices, and full stack systems
+
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, and mentoring other members of the engineering community
+
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+
+Work with cloud native stack, build on AWS, use technologies like Kubernetes and Serverless
+
+Basic Qualifications:
+
+Bachelor’s Degree
+
+At least 4 years of experience in software engineering
+
+Preferred Qualifications:
+
+Master's Degree
+
+2+ years of experience in Agile practices
+
+1+ years of experience with AWS, GCP, Microsoft Azure, or another public cloud service
+
+4+ years of experience in at least one of the following: Java, Scala, Python, Go, Javascript/TypeScript, Angular/React.js, or Node.js
+
+2+ years of experience working with big data technologies (e.g. Hadoop, Spark, Presto)
+
+2+ years of experience working on streaming data applications (e.g. Kafka, Kinesis, Flink, or Spark Streaming)
+
+4+ years of experience in open source frameworks
+
+At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+
+Intuit is looking for innovative and hands-on Staff Data scientist to join the Intuit AI team.This team embeds artificial intelligence and machine learning into our product portfolio and business to create smarter products, improve anti-fraud and security, and enhance customer care. We aim to save our customers time ("Never enter data"), increase their prosperity by making actionable financial recommendations, and enable them to have complete confidence in our products
+
+What you'll bring
+4+ years of industry experience with data science
+BS, MS or PhD in Statistics, Mathematics, Computer Science, Economics, Operations Research, or equivalent
+4+ years of hands-on expertise with data mining and statistical modeling techniques such as clustering, classification, regression, tree-based methods, neural nets, support vector machines, anomaly detection, and natural language processing
+Expertise in modern advanced analytical tools and programming languages such as Python, Scala, Java and/or R.
+Efficient in SQL, Hive, SparkSQL, etc.
+Comfortable working in a Linux environment
+Experience with building end-to-end reusable pipelines from data acquisition to model output delivery
+Quick learner, adaptable, with the ability to work independently in a fast-paced environment
+Strong oral and written communication skills. Ability to conduct meetings and make professional presentations, and to explain complex concepts and technical material to non-technical users
+community
+How you will lead
+
+Excellent leadership and communication skills to influence teams and to evangelize data science across the organization
+Perform hands-on data analysis and modeling with huge data sets
+Apply data mining, NLP, and machine learning (both supervised and unsupervised) to improve relevance and personalization algorithms
+Work side-by-side with product managers, software engineers, and designers in designing experiments and minimum viable products
+Discover data sources, get access to them, import them, clean them up, and make them “model-ready”. You need to be willing and able to do your own ETL
+Create and refine features from the underlying data. You’ll enjoy developing just enough subject matter expertise to have an intuition about what features might make your model perform better, and then you’ll lather, rinse and repeat
+Run regular A/B tests, gather data, perform statistical analysis, draw conclusions on the impact of your optimizations and communicate results to peers and leaders
+Explore new design or technology shifts in order to determine how they might connect with the customer benefits we wish to deliver
+Communicate key analytic findings within the business and to senior stakeholders
+Research, explore, and enable new quantitative techniques and technologies in data science
+
+The Data Scientist will be joining a team of extremely passionate data scientists, product managers, and engineerswho share a common interest in tackling some of the most difficult data science and machine learning problems today. With the data products you design, 7Park will arm influential decision-makers at financial and corporate giants with critical information they need to make smart, data-driven decisions. Our technologies and data power the insights for financial services and corporations.
+
+The compensation package includes a competitive salary and incentive structure, generous benefits, and valuable business experiences, challenges, and excitement of contributing to the success of a fast-growing technology startup.
+
+As Data Scientists at 7Park Data, we design and build data products that provide rich intelligence on real-time economic activity for our financial and corporate clients. To do that, we research and develop machine learning systems to extract decision-ready insight from massive volumes of structured and unstructured data.
+
+Responsibilities:
+Building, testing and maintaining all the components of 7Park Data’s product pipelines:
+o Developing the transformation and enrichment logic that prepares messy, incomplete and inconsistent data for analysis
+
+o Applying statistical modelling techniques to produce signals and packaging them in a client-consumable output
+Work with 7Park Product and Commercial teams to understand business requirements, and their context, then translate them to a technical plan of action.
+Evaluate new vendor data as part of our data acquisition process, form opinions on its future business value and the likelihood of success, and ultimately communicate findings to stakeholders at all levels of seniority
+Collaborate with our Financial Research team to investigate hypotheses, produce commentaries and analyses on market trends, as well as refining new and existing products
+Work with Product Managers at a strategic level to plan product roadmaps, recommend new products or enhancements, as well as estimating and prioritizing work. Ensure alignment of day-to-day activity with the overall product strategy
+Develop systems to monitor the analytical quality of production models to discover anomalies, following through to investigation and resolution
+Create technical documentation for both internal and external technical audiences, as well as contributing to client-facing content for non-technical audiences
+Requirements:
+3 – 5 years of relevant professional experience in an autonomous data analytics or data science role
+Master’s degree or PhD in computer science, mathematics, statistics, physics, computational finance, or a similar quantitative field (or relevant work experience)
+Knowledge of statistics, computer science and machine learning
+Strong programming skills in Python (highly preferred), R, and/or Scala
+Strong proficiency with Pandas and Scikit-Learn
+Experience with building distributed data pipelines using PySpark
+Experience with several of the following concepts: decision trees, random forests, gradient boosting; linear regression; logistic regression; dimensionality reduction using PCA and clustering
+Comfortable with general SDLC concepts and processes
+Results-driven attitude with a strong desire to build data products and achieve results that matter- for us and for our clients. We come to play and play to win.
+Deeply held conviction for the power of data, with high analytical standards and surgical attention to detail
+Fearlessness in the pursuit of process improvement, implementation, and change
+Flexibility and willingness to adapt to the changing demands of a fast-paced startup environment
+Solutions oriented approach and multi-dimensional problem solving
+Highly self-motivated and results oriented, proven track record of exceeding goals
+Commitment to success and willingness to put forth the effort to achieve it
+Strong written and verbal English communication skills – ability to communicate complex ideas simply and accurately to technical and non-technical audiences
