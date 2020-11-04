@@ -1,9 +1,32 @@
 name,size,count,job
-Java,500,511,Data Scientist
-Java,500,654,Data Engineer
-Python,200,512,Data Scientist
-Python,250,786,Web Developer
-C,50,351,Machine Learning
-C,150,268,Mobile Developer
-Javascript,20,972,Data Engineer
-Javascript,100,1239,Mobile Developer
+python,100,87,Data Engineer
+spark,1000,50,Data Engineer
+scala,10,20,Data Engineer
+java,200,31,Data Engineer
+php,10,2,Data Engineer
+javascript,20,2,Data Engineer
+ruby,10,2,Data Engineer
+typescript,50,1,Data Engineer
+python,200,159,Machine Learning
+php,50,4,Machine Learning
+java,50,31,Machine Learning
+spark,500,41,Machine Learning
+javascript,50,9,Machine Learning
+swift,10,1,Machine Learning
+julia,20,4,Machine Learning
+scala,50,19,Machine Learning
+java,20,30,Mobile
+swift,10,36,Mobile
+python,20,5,Mobile
+dart,10,1,Mobile
+javascript,100,21,Mobile
+typescript,100,7,Mobile
+php,50,4,Mobile
+ruby,20,3,Mobile
+scala,10,1,Mobile
+javascript,500,82,Web
+java,1000,16,Web
+python,20,15,Web
+typescript,50,5,Web
+ruby,50,9,Web
+php,100,21,Web
