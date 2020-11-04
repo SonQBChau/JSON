@@ -1,9 +1,33 @@
 name,count,type
-Java,511,Web
-Java,654,Mobile
-Python,512,Web
-Python,786,Mobile
-C,351,Web
-C,268,Mobile
-Javascript,972,Web
-Javascript,1239,Mobile
+python,87,Data Engineer
+spark,50,Data Engineer
+scala,20,Data Engineer
+java,31,Data Engineer
+php,2,Data Engineer
+javascript,2,Data Engineer 
+ruby,2,Data Engineer
+typescript,1,Data Engineer
+python,159,Machine Learning
+php,4,Machine Learning
+java,31,Machine Learning
+spark,41,Machine Learning
+javascript,9,Machine Learning
+swift,1,Machine Learning
+julia,4,Machine Learning
+scala,19,Machine Learning
+java,30,Mobile
+swift,36,Mobile
+python,5,Mobile
+dart,1,Mobile
+javascript,21,Mobile
+typescript,7,Mobile
+php,4,Mobile
+ruby,3,Mobile
+scala,1,Mobile
+javascript,82, Web
+java,16,Web
+python,15,Web
+typescript,5,Web
+ruby,9,Web
+php,21,Web
+scala,1,Web
